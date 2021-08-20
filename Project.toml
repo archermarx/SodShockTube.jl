@@ -1,0 +1,13 @@
+name = "EulerShockTube"
+uuid = "2160a001-e9fc-4c63-b529-f2c7ec8d982c"
+authors = ["Thomas Marks <marksta@umich.edu> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
