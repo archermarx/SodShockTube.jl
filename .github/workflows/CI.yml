@@ -54,9 +54,9 @@ jobs:
       - run: |
           julia --project=docs -e '
             using Documenter: DocMeta, doctest
-            using EulerShockTube
-            DocMeta.setdocmeta!(EulerShockTube, :DocTestSetup, :(using EulerShockTube); recursive=true)
-            doctest(EulerShockTube)'
+            using SodShockTube
+            DocMeta.setdocmeta!(SodShockTube, :DocTestSetup, :(using SodShockTube); recursive=true)
+            doctest(SodShockTube)'
       - run: julia --project=docs docs/make.jl
         env:
           JULIA_PKG_SERVER: ""

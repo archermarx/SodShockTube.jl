@@ -1,3 +1,3 @@
 [deps]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
-EulerShockTube = "2160a001-e9fc-4c63-b529-f2c7ec8d982c"
+SodShockTube = "2160a001-e9fc-4c63-b529-f2c7ec8d982c"

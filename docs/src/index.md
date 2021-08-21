@@ -1,14 +1,14 @@
 ```@meta
-CurrentModule = EulerShockTube
+CurrentModule = SodShockTube
 ```
 
-# EulerShockTube
+# SodShockTube
 
-Documentation for [EulerShockTube](https://github.com/archermarx/EulerShockTube.jl).
+Documentation for [SodShockTube](https://github.com/archermarx/SodShockTube.jl).
 
 ```@index
 ```
 
 ```@autodocs
-Modules = [EulerShockTube]
+Modules = [SodShockTube]
 ```

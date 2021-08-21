@@ -24,7 +24,7 @@ git-tree-sha1 = "350dced36c11f794c6c4da5dc6493ec894e50c16"
 uuid = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 version = "0.27.5"
 
-[[EulerShockTube]]
+[[SodShockTube]]
 path = ".."
 uuid = "2160a001-e9fc-4c63-b529-f2c7ec8d982c"
 version = "0.1.0"
