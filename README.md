@@ -66,6 +66,7 @@ lines!(ax_E, values.x, values.e; opts...)
 display(f)
 ```
 
+![](https://github.com/archermarx/SodShockTube.jl/blob/main/test/fig.png)
 
 
 
