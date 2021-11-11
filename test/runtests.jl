@@ -38,6 +38,4 @@ doctest(SodShockTube)
     lines!(ax_u, values.x, values.u; opts...)
     lines!(ax_p, values.x, values.p; opts...)
     lines!(ax_E, values.x, values.e; opts...)
-
-    save("test/fig.png", f, px_per_unit=3)
 end
