@@ -1,7 +1,7 @@
 name = "SodShockTube"
 uuid = "2160a001-e9fc-4c63-b529-f2c7ec8d982c"
 authors = ["Thomas Marks <marksta@umich.edu> and contributors"]
-version = "0.1.0"
+version = "1.0.0"
 
 [deps]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
