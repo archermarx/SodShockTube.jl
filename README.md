@@ -1,7 +1,5 @@
 # SodShockTube
 
-[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://archermarx.github.io/SodShockTube.jl/stable)
-[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://archermarx.github.io/SodShockTube.jl/dev)
 [![Build Status](https://github.com/archermarx/SodShockTube.jl/workflows/CI/badge.svg)](https://github.com/archermarx/SodShockTube.jl/actions)
 
 This is a pure-Julia implementation of the python Sod Shock tube solver by ibackus (https://github.com/ibackus/sod-shocktube), which is "a fork of the Riemann solver implemented at https://gitlab.com/fantaz/Riemann_exact, which is itself just a pythonic clone of the fortran code by Bruce Fryxell."
